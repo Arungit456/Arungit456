@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arunkumar P
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on for Python Projects
+- 💞️ I’m looking to collaborate on for Web Development Projects
 - 📫 How to reach me arunkumarperiyasamy456@gmail.com
 
 <!---
